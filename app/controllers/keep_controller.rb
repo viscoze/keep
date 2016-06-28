@@ -1,0 +1,2 @@
+class KeepController < ApplicationController
+end
